@@ -47,6 +47,13 @@
             "id": "jwchdsizty",
             "label": "v5",
             "propertyName": "inputs.v5"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "cdruztqgxe",
+            "label": "v6",
+            "propertyName": "inputs.v6"
           }
         ],
         "id": "xmwlxdlobj",
