@@ -12,9 +12,12 @@ export default {
 		return moment.now()
 	},
 	getCurrentVersion() {
-		return "v3.0.0"
+		return "v4.0.0"
 	},
 	v3() {
 		return "v3"
+	},
+	v4() {
+		return "v4"
 	}
 }

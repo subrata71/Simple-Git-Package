@@ -33,6 +33,13 @@
             "id": "vuyuhtjtim",
             "label": "v3",
             "propertyName": "inputs.v3"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "hciyhuotop",
+            "label": "v4",
+            "propertyName": "inputs.v4"
           }
         ],
         "id": "xmwlxdlobj",
