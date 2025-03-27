@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67e53809ca691b43969abb56_bebb6b8a-814c-4613-a773-ac5ad1a072a5",
+  "moduleUUID": "65dab882-361a-448f-b459-764c36e6c6c5",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "nspgdomqkn",
+        "sectionName": ""
+      }
+    ],
+    "name": "GetAppsmithMockUsers"
+  }
+}

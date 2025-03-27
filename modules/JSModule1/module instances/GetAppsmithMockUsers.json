@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "67e53809ca691b43969abb56_082f970c-453a-49eb-a321-d60c7380ef2f",
+  "id": "JSModule1_GetAppsmithMockUsers",
+  "moduleUUID": "65dab882-361a-448f-b459-764c36e6c6c5",
+  "packageUUID": "aed0385c-9084-4844-b423-f3b0218de9d8",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {},
+    "moduleId": "JSModule1",
+    "moduleInputs": {},
+    "name": "GetAppsmithMockUsers"
+  }
+}
