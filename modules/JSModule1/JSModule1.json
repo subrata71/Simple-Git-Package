@@ -26,6 +26,13 @@
             "id": "xilzgyullk",
             "label": "getCurrentVersion",
             "propertyName": "inputs.getCurrentVersion"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "vuyuhtjtim",
+            "label": "v3",
+            "propertyName": "inputs.v3"
           }
         ],
         "id": "xmwlxdlobj",
